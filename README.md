@@ -1,11 +1,11 @@
 # C-Program-to-print-the-invoice-for-the-purchased-book-items
 
-## “Maddy’s Print Shop” is a newly opened book printing shop in the city. Currently, they print 10 different types of books and each book type has a corresponding code and unit price as given below.
+“Maddy’s Print Shop” is a newly opened book printing shop in the city. Currently, they print 10 different types of books and each book type has a corresponding code and unit price as given below.
 
-Code           BN100 BN122 BN134 BN138 BN145 BN160 BN165 BN178 BN186 BN194
-Unit Price ($) 12.85 18.75 20.55 11.5 25.45 20.55 25.65 14.85 22.25 24.25
+| Code           | BN100 | BN122 | BN134 | BN138 | BN145 | BN160 | BN165 | BN178 | BN186 | BN194 | 
+| Unit Price ($) | 12.85 | 18.75 | 20.55 | 11.5 | 25.45 | 20.55 | 25.65 | 14.85 | 22.25 | 24.25 | 
 
-## “BookPeople” is one of the main customers doing transactions with Maddy’s Print Shop and they wish to
+“BookPeople” is one of the main customers doing transactions with Maddy’s Print Shop and they wish to
 purchase some books. Instead of creating an invoice by hand, the manager wants to use an invoice printing
 software in their cashier.
 Your task is to create a C Program to print the invoice for the purchased book items.
