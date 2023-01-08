@@ -9,11 +9,11 @@
 
 “BookPeople” is one of the main customers doing transactions with Maddy’s Print Shop and they wish to
 purchase some books. Instead of creating an invoice by hand, the manager wants to use an invoice printing
-software in their cashier.
-Your task is to create a C Program to print the invoice for the purchased book items.
- First, it should ask the user to input the customer name and the no. of entries for the invoice.
- Then the user should input the Code, Quantity and the Unit Price for each entry.
- Line Totals and Subtotal should be calculated using Quantity and the Unit Price.
- If the Subtotal is greater than $5000, then they will give a 10% discount on the subtotal. If the Subtotal is
+software in their cashier. Your task is to create a C Program to print the invoice for the purchased book items.
+
+* First, it should ask the user to input the customer name and the no. of entries for the invoice.
+* Then the user should input the Code, Quantity and the Unit Price for each entry.
+* Line Totals and Subtotal should be calculated using Quantity and the Unit Price.
+* If the Subtotal is greater than $5000, then they will give a 10% discount on the subtotal. If the Subtotal is
 between $1000 and $5000, then they will give a 5% discount on the subtotal.
- Finally, the invoice should display the discount amount and the Total price has to be paid by the customer.
+* Finally, the invoice should display the discount amount and the Total price has to be paid by the customer.
